@@ -1,0 +1,32 @@
+web development
+	-> front end
+		-> Design(UI/UX)
+		-> Optimization
+	
+	-> back end
+		-> Database
+		-> Authentication
+		
+	-> devops - operations to distribute
+		-> hosting
+		-> scaling
+
+front end - 
+
+	skeleton(HTML) -
+	libraries
+	-> angular - library by google
+	-> VueJS
+	-> React JS - library by facebook
+	
+	outerlook(CSS DESIGN) -
+	libraries
+	-> bootstrap
+	-> semantic UI ----**
+	-> material UI
+	
+	brain(JavaScript) - 
+	-> 
+	
+Learn react from youtube coding with mosh 160 minutes
+
